@@ -1,0 +1,12 @@
+{
+  "name": "merch",
+  "displayName": "merch",
+  "expo": {
+    "name": "merch",
+    "slug": "merch",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
